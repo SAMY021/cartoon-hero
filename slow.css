@@ -1,0 +1,22 @@
+h1{
+	font-size: 30px;
+    color: gold;
+}
+
+h2{ 
+    color: red;
+}
+.small{
+    font-size: 30px;
+}
+.uppercase{
+        text-transform: uppercase;
+        text-decoration: underline;
+
+}
+.small.uppercase{
+        color: navy;
+}
+h1 span{
+    color: violet;
+}
